@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprenderMVC", "AprenderMVC\AprenderMVC.csproj", "{68A189FF-F421-49CA-9852-AD914F134928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A189FF-F421-49CA-9852-AD914F134928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A189FF-F421-49CA-9852-AD914F134928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A189FF-F421-49CA-9852-AD914F134928}.Debug|x64.ActiveCfg = Debug|x64
+		{68A189FF-F421-49CA-9852-AD914F134928}.Debug|x64.Build.0 = Debug|x64
+		{68A189FF-F421-49CA-9852-AD914F134928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A189FF-F421-49CA-9852-AD914F134928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A189FF-F421-49CA-9852-AD914F134928}.Release|x64.ActiveCfg = Release|x64
+		{68A189FF-F421-49CA-9852-AD914F134928}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {022BB8ED-E47A-4113-8C47-C6F46436758E}
+	EndGlobalSection
+EndGlobal
