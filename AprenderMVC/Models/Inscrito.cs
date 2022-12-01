@@ -18,7 +18,7 @@ namespace AprenderMVC.Models
         public int IdPessoa { get; set; }
         public int Nota { get; set; }
 
-        public string? Resultado { get; set; }
+        public string Resultado { get; set; }
 
         [ForeignKey("IdTurma")]
         public Turma Turma { get; set; }

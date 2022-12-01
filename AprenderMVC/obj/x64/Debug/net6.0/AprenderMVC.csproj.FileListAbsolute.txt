@@ -267,3 +267,11 @@ D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\x64\Debug\net6.0\refint\Aprende
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\x64\Debug\net6.0\AprenderMVC.pdb
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\x64\Debug\net6.0\AprenderMVC.genruntimeconfig.cache
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\x64\Debug\net6.0\ref\AprenderMVC.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\x64\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\x64\Debug\net6.0\AprenderMVC.MvcApplicationPartsAssemblyInfo.cs

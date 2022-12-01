@@ -5,6 +5,10 @@ D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\AprenderMVC.exe
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Humanizer.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\MessagePack.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Build.dll
@@ -33,6 +37,9 @@ D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.EntityFr
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -244,6 +251,7 @@ D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.Genera
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.AssemblyInfoInputs.cache
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.AssemblyInfo.cs
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.csproj.CoreCompileInputs.cache
+D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.MvcApplicationPartsAssemblyInfo.cs
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.MvcApplicationPartsAssemblyInfo.cache
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.RazorAssemblyInfo.cache
 D:\impacta\AspNet\My\AprenderMVC\AprenderMVC\obj\Debug\net6.0\AprenderMVC.RazorAssemblyInfo.cs
